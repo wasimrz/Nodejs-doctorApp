@@ -1,0 +1,11 @@
+{
+    "data": {
+        "userId": "6305d8efca6bcb1f35330395",
+        "accessToken": "fDXMxC8K6C6HUjbgoV58ebX7qCcQYu20SHZy3x8ZVT8.GhlSOQ_sHWIF1o-RSs9TJt1ZShboO5cOwMlinA2DKrs",
+        "refreshToken": "Mw-pB89ZrOvCEP0eoZBgOoPqLVKnTuZMttaB6ZvGz4k.LJ6R-BrnWuQZB9YVdcv1ufER_FpSlmx12sZe8ipTcsM",
+        "expiresAt": "2022-08-24T18:05:54.811Z"
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Validation successful, Applicant is logged in successfully"
+}

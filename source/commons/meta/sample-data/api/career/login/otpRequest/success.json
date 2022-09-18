@@ -1,0 +1,9 @@
+{
+    "data": {
+        "pseudoUserId": "6306273b7ce9e0def67c4706",
+        "message": "OTP generated for verification "
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

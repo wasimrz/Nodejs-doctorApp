@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "type": "success",
+  "message": "OTP sent to existing email and new mobile.",
+  "metadata": {
+    "feedback": {
+      "sentSMS": true,
+      "sentEMAIL": true
+    },
+    "description": "An OTP is sent to 918********6 and p**********a@graymatter.co.in."
+  }
+}

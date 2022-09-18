@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "price": {
+                "startRange": 20000,
+                "endRange":30000
+            },
+            "createdAt": "2022-08-20T13:19:28.612Z",
+            "_id": "6300e033576e1113b7ce8057",
+            "icon": "https://myawsimagesbucket.s3.ap-south-1.amazonaws.com/2022-08-20T13%3A22%3A58.698Z-DIP-2.png",
+            "surgeryName": "surgery12345",
+            "surgeryDescription": "surgery descriptiion 1234",
+            "updatedAt": "2022-08-20T13:22:59.063Z",
+            "__v": 0
+        },
+        {
+            "price": {
+                "fixed": 5000
+            },
+            "createdAt": "2022-08-20T13:19:28.612Z",
+            "_id": "6300e033576e1113b7ce8057",
+            "icon": "https://myawsimagesbucket.s3.ap-south-1.amazonaws.com/2022-08-20T13%3A22%3A58.698Z-DIP-2.png",
+            "surgeryName": "surgery12345",
+            "surgeryDescription": "surgery descriptiion 1234",
+            "updatedAt": "2022-08-20T13:22:59.063Z",
+            "__v": 0
+        },
+        {
+            "price": {
+                "fixed": 5000
+            },
+            "createdAt": "2022-08-21T11:23:19.338Z",
+            "_id": "630215dec0a5e90aa3c4d4ff",
+            "icon": "https://myawsimagesbucket.s3.ap-south-1.amazonaws.com/2022-08-21T11%3A24%3A14.221Z-DIP-2.png",
+            "surgeryName": "surgeryABC",
+            "surgeryDescription": "surgery descriptiion 1234",
+            "updatedAt": "2022-08-21T11:24:14.612Z",
+            "__v": 0
+        }
+    ],
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

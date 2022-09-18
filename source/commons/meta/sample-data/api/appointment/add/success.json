@@ -1,0 +1,43 @@
+{
+  "data": {
+    "createdAt": "2022-08-14T09:03:26.525Z",
+    "status": "ACTIVE",
+    "isCancelled": false,
+    "isCompleted": false,
+    "isUpcoming": true,
+    "_id": "62f8ba5e711bbb172ce7c9c1",
+    "updatedAt": "2022-08-14T09:03:26.531Z",
+    "patientName": "Patient Name",
+    "patientAge": "23",
+    "scheduleDate": {
+      "availabilityId": "62f8aa616c3ff81b0c59a871",
+      "day": "Monday",
+      "time": "2:00 PM",
+      "date": "2022-08-03T18:30:00.000Z",
+      "slotId": "62f8aa616c3ff81b0c59a872"
+    },
+    "problem": [
+      {
+        "icons": ["url1", "url2"],
+        "_id": "45b028781a97f6a1543",
+        "problemName": "Some Problem",
+        "displayName": "Its short name"
+      }
+    ],
+    "test": [
+      {
+        "icons": ["url1", "url2"],
+        "_id": "145b023928f1a97f6a1543",
+        "testName": "Test name",
+        "displayName": "Its short name",
+        "description": "Some test description1"
+      }
+    ],
+    "userId": "1234",
+    "appointmentType": "VIDEO_CALL",
+    "__v": 0
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Appointment bokked successfully ."
+}

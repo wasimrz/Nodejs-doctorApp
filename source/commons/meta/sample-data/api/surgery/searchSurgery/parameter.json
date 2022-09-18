@@ -1,0 +1,11 @@
+[
+    {
+      "in": "params",
+      "name": "word",
+      "schema": {
+        "type": "string"
+      },
+      "required": true,
+      "description": "keyword to be searched in surgery name orr surgery description"
+    }
+  ]

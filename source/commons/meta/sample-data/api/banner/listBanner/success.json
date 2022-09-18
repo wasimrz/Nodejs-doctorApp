@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "_id": "6300b40a47d9404d658adecd",
+            "createdAt": "2022-08-20T10:14:34.881Z",
+            "updatedAt": "2022-08-20T10:14:34.881Z"
+        }
+    ],
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

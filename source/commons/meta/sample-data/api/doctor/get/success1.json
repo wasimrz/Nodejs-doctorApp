@@ -1,0 +1,75 @@
+{
+  "data": {
+    "createdAt": "2022-08-14T07:07:46.224Z",
+    "_id": "212345232342345345",
+    "firstName": "First name",
+    "lastName": "Lats name",
+    "problem": [
+      {
+        "icons": ["Image Url", "Image url"],
+        "_id": "62cc02777028f3f57f6a2070",
+        "problemName": "problem 1",
+        "displayName": "displayName"
+      }
+    ],
+    "test": [
+      {
+        "icons": ["Image Url", "Image url"],
+        "_id": "22ab02899028f1f77f6a1543",
+        "testName": "Test 1",
+        "displayName": "displayName",
+        "description": "Some description"
+      }
+    ],
+    "availability": [
+      {
+        "_id": "62f8a08613503b17f0ed4899",
+        "day": "Monday",
+        "slot": [
+          {
+            "_id": "62f8a08613503b17f0ed489a",
+            "time": "2:00 PM",
+            "isAvailable": true
+          },
+          {
+            "_id": "62f8a08613503b17f0ed489b",
+            "time": "4:00 PM",
+            "isAvailable": true
+          },
+          {
+            "_id": "62f8a08613503b17f0ed489c",
+            "time": "6:00 PM",
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "_id": "62f8a08613503b17f0ed489d",
+        "day": "Tuesday",
+        "slot": [
+          {
+            "_id": "62f8a08613503b17f0ed489e",
+            "time": "12:00 PM",
+            "isAvailable": true
+          },
+          {
+            "_id": "62f8a08613503b17f0ed489f",
+            "time": "3:00 PM",
+            "isAvailable": true
+          },
+          {
+            "_id": "62f8a08613503b17f0ed48a0",
+            "time": "4:00 PM",
+            "isAvailable": true
+          }
+        ]
+      }
+    ],
+    "review": [],
+    "updatedAt": "2022-08-14T07:13:10.210Z",
+    "__v": 0
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

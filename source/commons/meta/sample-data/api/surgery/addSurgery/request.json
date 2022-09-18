@@ -1,0 +1,8 @@
+{
+    "icon":"url Path",
+    "surgeryName":"surgeryABC",
+    "surgeryDescription":"surgery descriptiion 1234",
+    "price":{
+        "fixed": 50000
+    }
+}

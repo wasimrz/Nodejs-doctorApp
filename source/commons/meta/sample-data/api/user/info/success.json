@@ -1,0 +1,34 @@
+{
+  "data": {
+    "userId": "6017af96c9923d3bec3e0e39",
+    "email": "cHJhbmF2LnNpbmhhQGdyYXltYXR0ZXIuY28uaW4=",
+    "mobile": "OTE4OTgyNTkxNDE2",
+    "emailMasked": "pran******ha@graymatter.co.in",
+    "mobileMasked": "9189******16",
+    "firstName": "Monkey D",
+    "lastName": "Luffy",
+    "fullName": "Monkey D Luffy",
+    "role": "PAX App user",
+    "roleId": "60929f9509dffvb02e84ef21",
+    "devices": [
+      {
+        "deviceId": "XYCrwKKovmah24Bw7YYA7f",
+        "deviceActive": true
+      }
+    ],
+    "registeredOn": "2021-06-03T13:44:28.814Z"
+  },
+  "metadata": {
+    "status": {
+      "r360": {
+        "membership": {
+          "success": false,
+          "error": "Customer not found"
+        }
+      }
+    }
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

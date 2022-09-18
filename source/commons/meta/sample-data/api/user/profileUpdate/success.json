@@ -1,0 +1,8 @@
+{
+    "_id": "145b023928f1a97f6a1543",
+    "testName": "Teset name",
+    "displayName": "Its short name",
+    "icons": ["url1", "url2"],
+    "description": "Some test description1"
+  }
+  

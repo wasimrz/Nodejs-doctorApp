@@ -1,0 +1,11 @@
+[
+  {
+    "in": "params",
+    "name": "mobile",
+    "schema": {
+      "type": "string"
+    },
+    "required": true,
+    "description": "Base64 Encoded mobile (new mobile which is to be set)"
+  }
+]

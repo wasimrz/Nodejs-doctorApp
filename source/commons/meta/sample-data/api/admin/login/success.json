@@ -1,0 +1,11 @@
+{
+    "data": {
+        "userId": "630708697aabef171954d543",
+        "accessToken": "B7CIiVWEuhfufBGlIx_Fd1wCqbzhMJNNRh2Dzn7gTJA.FD7PCdp8P6g_h3bQ67YYNgePAzB0PBHm4L5E2oHbK2M",
+        "refreshToken": "5e-wKFY4rrjV13H3i53BkEaFL0sg-9mH8qqLFEcRnmo.0YZp3vJu4rRC4r10BcenQqMv2WAmI4BhpECfekc7CjY",
+        "expiresAt": "2022-08-25T06:41:16.899Z"
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

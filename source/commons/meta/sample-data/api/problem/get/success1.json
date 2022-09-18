@@ -1,0 +1,13 @@
+{
+  "data": {
+    "createdAt": "2022-07-26T10:40:44.295Z",
+    "icons": ["url1", "url2"],
+    "_id": "62cc02777028f3f57f6a2070",
+    "problemName": "problem 1",
+    "displayName": "short name1",
+    "__v": 0
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

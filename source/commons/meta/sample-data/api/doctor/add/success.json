@@ -1,0 +1,46 @@
+{
+  "data": {
+      "createdAt": "2022-08-23T15:05:17.624Z",
+      "_id": "6304ef7a434e7f0c0a036c11",
+      "personalInfo": {
+          "name": "Doctor1",
+          "email": "doc@gmail.com",
+          "phone": "+919090909091",
+          "whatsAppPhone": "+919090909090",
+          "alternativePhone": "+919090909091",
+          "experience": 3,
+          "photo": "https://myawsimagesbucket.s3.ap-south-1.amazonaws.com/doctor/2022-08-23T15%3A17%3A13.722Z-DIP-2.png"
+      },
+      "expertiseField": {
+          "degree": "",
+          "specialization": "",
+          "bio": "",
+          "educationBrief": "",
+          "specializationBrief": "",
+          "experienceBrief": "",
+          "achievementBrief": "",
+          "membershipBrief": ""
+      },
+      "address": {
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressLine3": "",
+          "city": "",
+          "state": "",
+          "country": "",
+          "zipCode": null,
+          "identityProof": ""
+      },
+      "availability": [],
+      "problem": [],
+      "test": [],
+      "review": [],
+      "updatedAt": "2022-08-23T15:17:14.176Z",
+      "firstName": "",
+      "lastName": "",
+      "__v": 0
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Doctor added successfully"
+}

@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "_id": "doc1",
+            "review": [
+                {
+                    "_id": "62e411d31baf9c0f5df83857",
+                    "reviewDescription": "Lorem Ipsum isafkghshgodjgsjdglsdjgdsjgsjgspgjsgjs;pgjs;gjspgjgojgodsjgsjdgjg simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                    "reviewRating": 2,
+                    "reviewedUserName": "Manoj Kumar H R",
+                    "reviewedUserMail": "manu.hr1701@gmail.com",
+                    "reviewedDate": "2022-07-29T16:58:59.946Z",
+                    "comments": [
+                        {
+                            "_id": "62e412916cdd6410491f725d",
+                            "commentDescription": "commentDescription",
+                            "commentedUserId": "user231",
+                            "commentedUserName": "manu",
+                            "commentedUserMail": "manu@gmail.com",
+                            "commentedDate": "2022-07-29T17:02:09.304Z"
+                        },
+                        {
+                            "_id": "62e412c16cdd6410491f7260",
+                            "commentDescription": "2nd Comment",
+                            "commentedUserId": "user231",
+                            "commentedUserName": "manoj Kumar",
+                            "commentedUserMail": "manu1234@gmail.com",
+                            "commentedDate": "2022-07-29T17:02:57.506Z"
+                        }
+                    ]
+                },
+                {
+                    "_id": "62e413096cdd6410491f7263",
+                    "reviewDescription": "@nd Review",
+                    "reviewRating": 2,
+                    "reviewedUserName": "Manoj H R",
+                    "reviewedUserMail": "manu01@gmail.com",
+                    "reviewedDate": "2022-07-29T17:04:09.444Z",
+                    "comments": [
+                        {
+                            "_id": "62e413446cdd6410491f7265",
+                            "commentDescription": "1st Comment",
+                            "commentedUserId": "user231",
+                            "commentedUserName": "manoj Kumar",
+                            "commentedUserMail": "manu1234@gmail.com",
+                            "commentedDate": "2022-07-29T17:05:08.745Z"
+                        }
+                    ]
+                },
+                {
+                    "_id": "62f712c072d0fc0808934abc",
+                    "reviewDescription": "3rd Review",
+                    "reviewRating": 5,
+                    "reviewedUserName": "Manoj H R",
+                    "reviewedUserMail": "manu01@gmail.com",
+                    "reviewedDate": "2022-08-13T02:56:00.122Z",
+                    "comments": []
+                }
+            ]
+        }
+    ],
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

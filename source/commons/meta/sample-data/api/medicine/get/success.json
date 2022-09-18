@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "createdAt": "2022-08-19T13:22:57.038Z",
+      "_id": "62ff8ec3d02b231cc430c54b",
+      "doctorId": "378468172436234",
+      "name": "Somemedsname",
+      "icon": "Some uirl for icon",
+      "price": 1234,
+      "updatedAt": "2022-08-19T13:23:15.651Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-08-19T16:27:17.611Z",
+      "_id": "62ffba607ffe5f0d4092826f",
+      "doctorId": "378468172436234",
+      "name": "Somemedsname",
+      "icon": "Some uirl for icon",
+      "price": 1234,
+      "updatedAt": "2022-08-19T16:29:20.234Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-08-19T16:27:17.611Z",
+      "_id": "62ffba6e7ffe5f0d40928272",
+      "doctorId": "378468172436234",
+      "name": "Some meds name",
+      "icon": "Some url for icon",
+      "price": 1234,
+      "updatedAt": "2022-08-19T16:29:34.110Z",
+      "__v": 0
+    }
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

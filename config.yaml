@@ -1,0 +1,26 @@
+dev:
+  path: "."
+  environment: "dev"
+  repo_name: "dev-dda-core"
+  region: "ap-south-1"
+  ecr_url: ""
+  kustomization_file_path: "eks/dev"
+  cluster: ""
+
+staging:
+  path: "."
+  environment: "staging"
+  repo_name: "stage-dda-core"
+  region: "ap-south-1"
+  ecr_url: ""
+  kustomization_file_path: "eks/stage"
+  cluster: ""
+
+prod:
+  path: "."
+  environment: "prod"
+  repo_name: "-dda-core"
+  region: "ap-south-1"
+  ecr_url: ""
+  kustomization_file_path: "eks/prod"
+  cluster: ""

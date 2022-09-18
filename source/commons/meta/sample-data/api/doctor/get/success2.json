@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "location": {
+        "_id": "23454561d32v",
+        "flatNo": 12,
+        "city": "Indore",
+        "district": "String",
+        "state": "String"
+      },
+      "createdAt": "2022-08-14T07:54:46.236Z",
+      "_id": "21234523234234345",
+      "firstName": "31653135313163353965363437396130:142b7df51575959cb955988cb1b04445",
+      "lastName": "31653135313163353965363437396130:35dad2f343401d0e5cbc4878219de61f",
+      "qualification": "Qualifications",
+      "problem": [
+        {
+          "icons": ["Image Url", "Image url"],
+          "_id": "62cc02777028f3f57f6a2070",
+          "problemName": "problem 1",
+          "displayName": "displayName"
+        }
+      ],
+      "test": [
+        {
+          "icons": ["Image Url", "Image url"],
+          "_id": "22ab02899028f1f77f6a1543",
+          "testName": "Test 1",
+          "displayName": "displayName",
+          "description": "Some description"
+        }
+      ],
+      "availability": [
+        {
+          "_id": "62f8ac226c3ff81b0c59a887",
+          "day": "Monday",
+          "slot": [
+            {
+              "_id": "62f8ac226c3ff81b0c59a888",
+              "time": "2:00 PM",
+              "isAvailable": true
+            },
+            {
+              "_id": "62f8ac226c3ff81b0c59a889",
+              "time": "4:00 PM",
+              "isAvailable": true
+            },
+            {
+              "_id": "62f8ac226c3ff81b0c59a88a",
+              "time": "6:00 PM",
+              "isAvailable": true
+            }
+          ]
+        },
+        {
+          "_id": "62f8ac226c3ff81b0c59a88b",
+          "day": "Tuesday",
+          "slot": [
+            {
+              "_id": "62f8ac226c3ff81b0c59a88c",
+              "time": "12:00 PM",
+              "isAvailable": true
+            },
+            {
+              "_id": "62f8ac226c3ff81b0c59a88d",
+              "time": "3:00 PM",
+              "isAvailable": true
+            },
+            {
+              "_id": "62f8ac226c3ff81b0c59a88e",
+              "time": "4:00 PM",
+              "isAvailable": true
+            }
+          ]
+        }
+      ],
+      "review": [],
+      "updatedAt": "2022-08-14T08:02:42.235Z",
+      "__v": 0
+    }
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

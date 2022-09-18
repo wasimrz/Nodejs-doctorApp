@@ -1,0 +1,11 @@
+[
+    {
+      "in": "params",
+      "name": "id",
+      "schema": {
+        "type": "string"
+      },
+      "required": true,
+      "description": "doctor collection id to edit the profile"
+    }
+  ]

@@ -1,0 +1,9 @@
+{
+    "doctorId": "doc1",
+    "reviewDescription": "3rd Review",
+    "reviewRating": 2,
+    "reviewedUsedId": "user123",
+    "reviewedUserMail": "manu01@gmail.com",
+    "reviewedUserName": "Manoj H R",
+    "reviewedDate": "29/07/2022"
+  }

@@ -1,0 +1,11 @@
+[
+  {
+    "in": "params",
+    "name": "email",
+    "schema": {
+      "type": "string"
+    },
+    "required": true,
+    "description": "Base64 Encoded email (new email which is to be set)"
+  }
+]

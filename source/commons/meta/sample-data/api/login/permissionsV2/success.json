@@ -1,0 +1,13 @@
+{
+  "data": [
+    "dashboard:adBanner:list=edit",
+    "dashboard:adBanner:edit=none",
+    "dashboard:products:inventoryManagement=create",
+    "dashboard:orders=edit",
+    "dashboard:products:dailyPriceUpdate=delete",
+    "dashboard:products:catalogue=view"
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

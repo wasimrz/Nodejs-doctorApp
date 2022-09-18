@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "createdAt": "2022-08-02T06:10:53.336Z",
+            "likes": [
+                "user225"
+            ],
+            "_id": "62e8c029c306601f360705c4",
+            "reviewTitle": "Second Review ",
+            "reviewDate": "2022-08-02T06:11:53.000Z",
+            "reviewedUserId": "user1",
+            "reviewedUserName": "Manoj",
+            "reviewedUserMail": "manu.hr1701@gmail.com",
+            "reviewedUserMobile": "8277603447",
+            "reviewNoOfLikes": 0,
+            "__v": 0
+        },
+        {
+            "createdAt": "2022-08-02T06:32:24.069Z",
+            "likes": [
+                "user225",
+                "user213",
+                "user212",
+                "user214",
+                "user215",
+                "user216",
+                "user217",
+                "user218",
+                "user219",
+                "user220",
+                "user221",
+                "user222",
+                "user223",
+                "user224"
+            ],
+            "_id": "62e8c5c6db197e219e7d84b4",
+            "reviewTitle": "First Review ",
+            "reviewDate": "2022-08-02T06:35:50.000Z",
+            "reviewedUserId": "user123",
+            "reviewedUserName": "Manoj H R",
+            "reviewedUserMail": "manu.1701@gmail.com",
+            "reviewedUserMobile": "8277603447",
+            "reviewNoOfLikes": 13,
+            "__v": 0
+        },
+        {
+            "createdAt": "2022-08-02T06:32:24.069Z",
+            "likes": [],
+            "_id": "62e8c5cddb197e219e7d84b6",
+            "reviewTitle": "First Review ",
+            "reviewDate": "2022-08-02T06:35:57.000Z",
+            "reviewedUserId": "user123",
+            "reviewedUserName": "Manoj H R",
+            "reviewedUserMail": "manu.1701@gmail.com",
+            "reviewedUserMobile": "8277603447",
+            "reviewNoOfLikes": 0,
+            "__v": 0
+        },
+        {
+            "createdAt": "2022-08-02T07:37:12.245Z",
+            "likes": [
+                "user301",
+                "user302",
+                "user303",
+                "user304",
+                "user305"
+            ],
+            "_id": "62e8d468b0259428410d11c7",
+            "reviewTitle": "Third Review ",
+            "reviewDate": "2022-08-02T07:38:16.000Z",
+            "reviewedUserId": "user123",
+            "reviewedUserName": "Manoj H R",
+            "reviewedUserMail": "manu.1701@gmail.com",
+            "reviewedUserMobile": "8277603447",
+            "reviewNoOfLikes": 5,
+            "__v": 0
+        },
+        {
+            "createdAt": "2022-08-13T03:21:49.279Z",
+            "likes": [],
+            "_id": "62f71a4926f1e10bc392246b",
+            "reviewTitle": "Third Review ",
+            "reviewDate": "2022-08-13T03:28:09.000Z",
+            "reviewedUserId": "user123",
+            "reviewedUserName": "Manoj H R",
+            "reviewedUserMail": "manu.1701@gmail.com",
+            "reviewedUserMobile": "8277603447",
+            "reviewNoOfLikes": 0,
+            "__v": 0
+        }
+    ],
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

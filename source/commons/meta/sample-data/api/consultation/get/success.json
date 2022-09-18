@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "_id": "3ww498573422349834d579",
+      "createdAt": "2022-07-30T12:39:07.947Z",
+      "updatedAt": "2022-07-30T12:39:07.947Z",
+      "name": "somename",
+      "doctorId": {
+        "_id": "378468172436234",
+        "firstName": "Name1",
+        "lastName": "lastname1"
+      },
+      "userId": "Here all user details in an object",
+      "appointmentId": "123234234",
+      "summary": "SOme summary",
+      "dateTime": "2022-07-30T12:48:54.870Z",
+      "meds": [
+        {
+          "name": ["eds1,meds2,meds3"],
+          "_id": "62e528b6a4e5921168b9f94f",
+          "sNumber": 3,
+          "isLatest": true
+        },
+        {
+          "name": ["eds1,meds2,meds3"],
+          "_id": "62e527b16bf65618f8aa456b",
+          "sNumber": 2,
+          "isLatest": false
+        },
+        {
+          "name": ["dolo", "paracteol"],
+          "_id": "62e52686a5783f09d09322da",
+          "sNumber": 1,
+          "isLatest": false
+        }
+      ],
+      "problem": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem5 ",
+          "displayName": "short name5",
+          "sNumber": 5,
+          "isLatest": true
+        },
+        {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem4 ",
+          "displayName": "short name4",
+          "sNumber": 3,
+          "isLatest": false
+        },
+        {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem5 ",
+          "displayName": "short name5",
+          "sNumber": 4,
+          "isLatest": false
+        },
+        {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem 1 ",
+          "displayName": "short name1",
+          "sNumber": 1,
+          "isLatest": false
+        },
+        {
+          "icons": ["url1", "url2"],
+          "_id": "62aa02777028f3f77f6a1090",
+          "problemName": "Problem 2 ",
+          "displayName": "short name2",
+          "sNumber": 2,
+          "isLatest": false
+        }
+      ],
+      "test": null,
+      "__v": 0
+    }
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

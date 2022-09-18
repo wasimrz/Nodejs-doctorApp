@@ -1,0 +1,8 @@
+{
+    "data": {
+        "msg": "Already Liked the review"
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

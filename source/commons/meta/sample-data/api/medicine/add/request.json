@@ -1,0 +1,6 @@
+{
+  "doctorId": "doctorId",
+  "name": "Some meds name",
+  "icon": "Some url for icon",
+  "price": 1234
+}

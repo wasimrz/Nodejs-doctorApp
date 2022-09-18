@@ -1,0 +1,11 @@
+{
+  "data": {
+    "testId": "145b023928f1a97f6a1543",
+    "icons": ["url1", "url2"],
+    "displayName": "Its short name",
+    "description": "Some test description1"
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

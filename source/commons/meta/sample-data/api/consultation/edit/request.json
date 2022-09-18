@@ -1,0 +1,14 @@
+{
+  "consultationId": "3ww498573422349834d579",
+  "meds": ["eds1,meds2,meds3"],
+  "problem": [
+    {
+      "_id": "145b028781a97f6a1543",
+      "problemName": "Problem5 ",
+      "displayName": "short name5",
+      "icons": ["url1", "url2"],
+      "description": "Some teset description5"
+    }
+  ],
+  "test": []
+}

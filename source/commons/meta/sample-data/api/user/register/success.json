@@ -1,0 +1,5 @@
+{
+    "status": 400,
+    "type": "failure",
+    "message": "User already exists"
+}

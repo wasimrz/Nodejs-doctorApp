@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "scheduleDate": {
+        "availabilityId": "62eabc5a090053143cc5b155",
+        "day": "Monday",
+        "time": "2:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62eabc5a090053143cc5b156"
+      },
+      "createdAt": "2022-08-04T09:39:42.319Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": true,
+      "_id": "62eb93de00fe7611046257ef",
+      "updatedAt": "2022-08-04T09:39:42.329Z",
+      "patientName": "31653135313163353965363437396130:3d14431b5bc3477197fdd85a7299e89d",
+      "patientAge": "31653135313163353965363437396130:8c1f808b4c4e34275e60af4254339d3b",
+      "problem": [],
+      "test": [],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0
+    },
+    {
+      "scheduleDate": {
+        "availabilityId": "62eabc5a090053143cc5b157",
+        "day": "Tuesday",
+        "time": "12:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62eabc5a090053143cc5b158"
+      },
+      "createdAt": "2022-08-04T09:47:02.301Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": false,
+      "_id": "62eb9596e32a14179c4da363",
+      "updatedAt": "2022-08-04T09:47:02.322Z",
+      "patientName": "31653135313163353965363437396130:3d14431b5bc3477197fdd85a7299e89d",
+      "patientAge": "31653135313163353965363437396130:8c1f808b4c4e34275e60af4254339d3b",
+      "problem": [],
+      "test": [],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0,
+      "doctorId": "4584681452a234534034"
+    },
+    {
+      "scheduleDate": {
+        "availabilityId": "62f8aa616c3ff81b0c59a871",
+        "day": "Monday",
+        "time": "2:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62f8aa616c3ff81b0c59a872"
+      },
+      "createdAt": "2022-08-14T08:54:58.523Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": true,
+      "_id": "62f8b86217caf51870513085",
+      "updatedAt": "2022-08-14T08:54:58.540Z",
+      "patientName": "Patient Name",
+      "patientAge": "23",
+      "problem": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "45b028781a97f6a1543",
+          "problemName": "Some Problem",
+          "displayName": "Its short name"
+        }
+      ],
+      "test": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "145b023928f1a97f6a1543",
+          "testName": "Test name",
+          "displayName": "Its short name",
+          "description": "Some test description1"
+        }
+      ],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0
+    },
+    {
+      "scheduleDate": {
+        "availabilityId": "62f8aa616c3ff81b0c59a871",
+        "day": "Monday",
+        "time": "2:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62f8aa616c3ff81b0c59a872"
+      },
+      "createdAt": "2022-08-14T08:59:10.893Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": true,
+      "_id": "62f8b95e9a5d610098a28c48",
+      "updatedAt": "2022-08-14T08:59:10.908Z",
+      "patientName": "Patient Name",
+      "patientAge": "23",
+      "problem": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "45b028781a97f6a1543",
+          "problemName": "Some Problem",
+          "displayName": "Its short name"
+        }
+      ],
+      "test": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "145b023928f1a97f6a1543",
+          "testName": "Test name",
+          "displayName": "Its short name",
+          "description": "Some test description1"
+        }
+      ],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0
+    },
+    {
+      "scheduleDate": {
+        "availabilityId": "62f8aa616c3ff81b0c59a871",
+        "day": "Monday",
+        "time": "2:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62f8aa616c3ff81b0c59a872"
+      },
+      "createdAt": "2022-08-14T09:00:29.050Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": true,
+      "_id": "62f8b9ad9a5d610098a28c4d",
+      "updatedAt": "2022-08-14T09:00:29.054Z",
+      "patientName": "Patient Name",
+      "patientAge": "23",
+      "problem": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "45b028781a97f6a1543",
+          "problemName": "Some Problem",
+          "displayName": "Its short name"
+        }
+      ],
+      "test": [],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0
+    },
+    {
+      "scheduleDate": {
+        "availabilityId": "62f8aa616c3ff81b0c59a871",
+        "day": "Monday",
+        "time": "2:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62f8aa616c3ff81b0c59a872"
+      },
+      "createdAt": "2022-08-14T09:00:41.331Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": true,
+      "_id": "62f8b9b99a5d610098a28c51",
+      "updatedAt": "2022-08-14T09:00:41.334Z",
+      "patientName": "Patient Name",
+      "patientAge": "23",
+      "problem": [],
+      "test": [],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0
+    },
+    {
+      "scheduleDate": {
+        "availabilityId": "62f8aa616c3ff81b0c59a871",
+        "day": "Monday",
+        "time": "2:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62f8aa616c3ff81b0c59a872"
+      },
+      "createdAt": "2022-08-14T09:03:15.206Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": true,
+      "_id": "62f8ba53711bbb172ce7c9bb",
+      "updatedAt": "2022-08-14T09:03:15.217Z",
+      "patientName": "Patient Name",
+      "patientAge": "23",
+      "problem": [],
+      "test": [],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0
+    },
+    {
+      "scheduleDate": {
+        "availabilityId": "62f8aa616c3ff81b0c59a871",
+        "day": "Monday",
+        "time": "2:00 PM",
+        "date": "2022-08-03T18:30:00.000Z",
+        "slotId": "62f8aa616c3ff81b0c59a872"
+      },
+      "createdAt": "2022-08-14T09:03:26.525Z",
+      "status": "ACTIVE",
+      "isCancelled": false,
+      "isCompleted": false,
+      "isUpcoming": true,
+      "_id": "62f8ba5e711bbb172ce7c9c1",
+      "updatedAt": "2022-08-14T09:03:26.531Z",
+      "patientName": "Patient Name",
+      "patientAge": "23",
+      "problem": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "45b028781a97f6a1543",
+          "problemName": "Some Problem",
+          "displayName": "Its short name"
+        }
+      ],
+      "test": [
+        {
+          "icons": ["url1", "url2"],
+          "_id": "145b023928f1a97f6a1543",
+          "testName": "Test name",
+          "displayName": "Its short name",
+          "description": "Some test description1"
+        }
+      ],
+      "userId": "1234",
+      "appointmentType": "VIDEO_CALL",
+      "__v": 0
+    }
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "List of your appointments fetched successfully ."
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "consultationId": "3ww498573422349834d579",
+    "name": "somename",
+    "doctorId": "378468172436234",
+    "appointmentId": "123234234",
+    "summary": "SOme summary",
+    "dateTime": 1660732741637,
+    "meds": [
+      {
+        "name": ["eds1,meds2,meds3"],
+        "sNumber": 4,
+        "isLatest": true
+      },
+      {
+        "name": ["eds1,meds2,meds3"],
+        "_id": "62e528b6a4e5921168b9f94f",
+        "sNumber": 3,
+        "isLatest": false
+      },
+      {
+        "name": ["eds1,meds2,meds3"],
+        "_id": "62e527b16bf65618f8aa456b",
+        "sNumber": 2,
+        "isLatest": false
+      },
+      {
+        "name": ["dolo", "paracteol"],
+        "_id": "62e52686a5783f09d09322da",
+        "sNumber": 1,
+        "isLatest": false
+      }
+    ],
+    "problem": [
+      {
+        "details": {
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem5 ",
+          "displayName": "short name5",
+          "icons": ["url1", "url2"],
+          "description": "Some teset description5"
+        },
+        "sNumber": 6,
+        "isLatest": true
+      },
+      {
+        "details": {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem5 ",
+          "displayName": "short name5"
+        },
+        "_id": "62e528b6a4e5921168b9f952",
+        "sNumber": 5,
+        "isLatest": false
+      },
+      {
+        "details": {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem4 ",
+          "displayName": "short name4"
+        },
+        "_id": "62e527b16bf65618f8aa456d",
+        "sNumber": 3,
+        "isLatest": false
+      },
+      {
+        "details": {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem5 ",
+          "displayName": "short name5"
+        },
+        "_id": "62e527b16bf65618f8aa456e",
+        "sNumber": 4,
+        "isLatest": false
+      },
+      {
+        "details": {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem 1 ",
+          "displayName": "short name1"
+        },
+        "_id": "62e52686a5783f09d09322db",
+        "sNumber": 1,
+        "isLatest": false
+      },
+      {
+        "details": {
+          "icons": ["url1", "url2"],
+          "_id": "62aa02777028f3f77f6a1090",
+          "problemName": "Problem 2 ",
+          "displayName": "short name2"
+        },
+        "_id": "62e52686a5783f09d09322dc",
+        "sNumber": 2,
+        "isLatest": false
+      }
+    ]
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

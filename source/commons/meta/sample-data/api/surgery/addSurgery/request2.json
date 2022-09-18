@@ -1,0 +1,11 @@
+{
+    "icon":"url Path",
+    "surgeryName":"surgeryABC",
+    "surgeryDescription":"surgery descriptiion 1234",
+    "price":{
+        "range": {
+            "startRange": 20000,
+            "endRange":30000
+        }
+    }
+}

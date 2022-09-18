@@ -1,0 +1,74 @@
+{
+  "data": {
+    "createdAt": "2022-08-17T10:19:00.515Z",
+    "updatedAt": "2022-08-17T10:19:00.515Z",
+    "_id": "34545765671324a22",
+    "name": "somename",
+    "doctorId": "378468172436234",
+    "appointmentId": "123234234",
+    "summary": "SOme summary",
+    "dateTime": "2022-08-17T10:24:13.264Z",
+    "meds": [
+      {
+        "name": ["dolo", "paracteol"],
+        "_id": "62fcc1cd916e1010a4ddb911",
+        "sNumber": 1,
+        "isLatest": true
+      }
+    ],
+    "problem": [
+      {
+        "details": {
+          "icons": ["url1", "url2"],
+          "_id": "145b028781a97f6a1543",
+          "problemName": "Problem 1 ",
+          "displayName": "short name1"
+        },
+        "_id": "62fcc1cd916e1010a4ddb912",
+        "sNumber": 1,
+        "isLatest": true
+      },
+      {
+        "details": {
+          "icons": ["url1", "url2"],
+          "_id": "62aa02777028f3f77f6a1090",
+          "problemName": "Problem 2 ",
+          "displayName": "short name2"
+        },
+        "_id": "62fcc1cd916e1010a4ddb913",
+        "sNumber": 2,
+        "isLatest": true
+      }
+    ],
+    "test": [
+      {
+        "details": {
+          "icons": [],
+          "testName": "teset1",
+          "_id": "145b02878928f1a97f6a1543",
+          "displayName": "short name5",
+          "description": "Some teset description1"
+        },
+        "_id": "62fcc1cd916e1010a4ddb914",
+        "sNumber": 1,
+        "isLatest": true
+      },
+      {
+        "details": {
+          "icons": [],
+          "testName": "teset2",
+          "_id": "145b02878928f1a97f6a1543",
+          "displayName": "short name5",
+          "description": "Some teset description1"
+        },
+        "_id": "62fcc1cd916e1010a4ddb915",
+        "sNumber": 2,
+        "isLatest": true
+      }
+    ],
+    "__v": 0
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

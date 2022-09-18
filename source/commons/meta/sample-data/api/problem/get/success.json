@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "createdAt": "2022-07-26T10:40:44.295Z",
+      "icons": ["url1", "url2"],
+      "_id": "62cc02777028f3f57f6a2070",
+      "problemName": "problem 1",
+      "displayName": "short name1",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-07-26T11:19:38.793Z",
+      "icons": ["url1", "url2"],
+      "_id": "62aa02777028f3f77f6a1090",
+      "problemName": "problem 2",
+      "displayName": "short name2",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-07-26T11:20:16.536Z",
+      "icons": ["url1", "url2"],
+      "_id": "62aa02999028f3f77f6a1299",
+      "problemName": "problem 3",
+      "displayName": "short name2",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-07-26T16:40:52.224Z",
+      "icons": ["url1", "url2"],
+      "_id": "145b02878928f1a97f6a1543",
+      "problemName": "Problem 5 ",
+      "displayName": "short name5",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-07-26T17:06:14.603Z",
+      "icons": [],
+      "_id": "378468172436234",
+      "updatedAt": "2022-07-26T17:07:46.838Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-07-26T17:58:44.387Z",
+      "icons": ["url1", "url2"],
+      "_id": "145b028781a97f6a1543",
+      "problemName": "Problem 5 ",
+      "displayName": "short name5",
+      "updatedAt": "2022-07-26T18:01:59.562Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-08-14T08:09:36.206Z",
+      "icons": ["url1", "url2"],
+      "_id": "45b028781a97f6a1543",
+      "problemName": "Some Problem",
+      "displayName": "Its short name",
+      "updatedAt": "2022-08-14T08:13:25.425Z",
+      "__v": 0
+    }
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

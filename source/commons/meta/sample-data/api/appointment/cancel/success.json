@@ -1,0 +1,28 @@
+{
+  "data": {
+    "scheduleDate": {
+      "availabilityId": "62f8aa616c3ff81b0c59a871",
+      "day": "Monday",
+      "time": "2:00 PM",
+      "date": "2022-08-03T18:30:00.000Z",
+      "slotId": "62f8aa616c3ff81b0c59a872"
+    },
+    "createdAt": "2022-08-14T09:00:41.331Z",
+    "status": "ACTIVE",
+    "isCancelled": true,
+    "isCompleted": false,
+    "isUpcoming": false,
+    "_id": "62f8b9b99a5d610098a28c51",
+    "updatedAt": "2022-08-14T09:00:41.334Z",
+    "patientName": "Patient Name",
+    "patientAge": "23",
+    "problem": [],
+    "test": [],
+    "userId": "1234",
+    "appointmentType": "VIDEO_CALL",
+    "__v": 0
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Appointment cancelled successfully."
+}

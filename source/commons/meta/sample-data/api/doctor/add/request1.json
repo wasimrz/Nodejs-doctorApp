@@ -1,0 +1,9 @@
+{
+    "photo" : "url",
+    "name" : "Doctor 1",
+    "email" : "doc1@gmail.com",
+    "phone" : "+919090909090",
+    "whatsAppPhone" : "+919090909090",
+    "alternativePhone" : "+919090909091",
+    "experience":3
+}

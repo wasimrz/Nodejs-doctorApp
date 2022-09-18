@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "_id": "doc1",
+            "review": [
+                {
+                    "comments": [
+                        {
+                            "_id": "62e413446cdd6410491f7265",
+                            "commentDescription": "1st Comment",
+                            "commentedUserId": "user231",
+                            "commentedUserName": "manoj Kumar",
+                            "commentedUserMail": "manu1234@gmail.com",
+                            "commentedDate": "2022-07-29T17:05:08.745Z"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

@@ -1,0 +1,24 @@
+{
+    "data": {
+        "createdAt": "2022-08-02T07:37:12.245Z",
+        "likes": [
+            "user301",
+            "user302",
+            "user303",
+            "user304",
+            "user305"
+        ],
+        "_id": "62e8d468b0259428410d11c7",
+        "reviewTitle": "Third Review ",
+        "reviewDate": "2022-08-02T07:38:16.000Z",
+        "reviewedUserId": "user123",
+        "reviewedUserName": "Manoj H R",
+        "reviewedUserMail": "manu.1701@gmail.com",
+        "reviewedUserMobile": "8277603447",
+        "reviewNoOfLikes": 5,
+        "__v": 0
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Ok"
+}

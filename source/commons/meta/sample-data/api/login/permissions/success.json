@@ -1,0 +1,169 @@
+{
+  "data": {
+    "defaults": [
+      {
+        "assetId": "52719a3584dfsvb02e84rr203",
+        "permissionId": "4",
+        "isActive": "Y",
+        "subAssets": [
+          {
+            "assetId": "52719a3584dfsvb02e84rr303",
+            "permissionId": "4",
+            "isActive": "Y",
+            "childAssets": [
+              {
+                "assetId": "",
+                "permissionId": "",
+                "isActive": "Y"
+              }
+            ],
+            "assetName": "Stores",
+            "apiEndPoint": "/dashboard/stores/",
+            "pk": "6092a44709dfffb02e84f907",
+            "permissionname": "Delete"
+          }
+        ],
+        "assetName": "Stores",
+        "apiEndPoint": "/dashboard/stores/",
+        "pk": "6092a44709dfffb02e84f907",
+        "permissionname": "Delete"
+      },
+      {
+        "assetId": "52719a3584dfsvb02e84rr204",
+        "permissionId": "4",
+        "isActive": "Y",
+        "subAssets": [
+          {
+            "assetId": "52719a3584dfsvb02e84rr304",
+            "permissionId": "4",
+            "isActive": "Y",
+            "childAssets": [
+              {
+                "assetId": "",
+                "permissionId": "",
+                "isActive": "Y"
+              }
+            ],
+            "assetName": "Ad Banner",
+            "apiEndPoint": "/dashboard/adBanner/",
+            "pk": "6092a44709dfffb02e84f907",
+            "permissionname": "Delete"
+          }
+        ],
+        "assetName": "Ad Banner",
+        "apiEndPoint": "/dashboard/adBanner/",
+        "pk": "6092a44709dfffb02e84f907",
+        "permissionname": "Delete"
+      },
+      {
+        "assetId": "52719a3584dfsvb02e84rr205",
+        "permissionId": "4",
+        "isActive": "Y",
+        "subAssets": [
+          {
+            "assetId": "52719a3584dfsvb02e84rr305",
+            "permissionId": "4",
+            "isActive": "Y",
+            "childAssets": [
+              {
+                "assetId": "",
+                "permissionId": "",
+                "isActive": "Y"
+              }
+            ],
+            "assetName": "Product Catalouge",
+            "apiEndPoint": "/dashboard/products/catalogue",
+            "pk": "6092a44709dfffb02e84f907",
+            "permissionname": "Delete"
+          }
+        ],
+        "assetName": "Products",
+        "apiEndPoint": "/dashboard/products/",
+        "pk": "6092a44709dfffb02e84f907",
+        "permissionname": "Delete"
+      },
+      {
+        "assetId": "52719a3584dfsvb02e84rr206",
+        "permissionId": "4",
+        "isActive": "Y",
+        "subAssets": [
+          {
+            "assetId": "52719a3584dfsvb02e84rr306",
+            "permissionId": "4",
+            "isActive": "Y",
+            "childAssets": [
+              {
+                "assetId": "",
+                "permissionId": "",
+                "isActive": "Y"
+              }
+            ],
+            "assetName": "Daily Price Update",
+            "apiEndPoint": "/dashboard/products/dailyPriceUpdate",
+            "pk": "6092a44709dfffb02e84f907",
+            "permissionname": "Delete"
+          }
+        ],
+        "assetName": "Products",
+        "apiEndPoint": "/dashboard/products/",
+        "pk": "6092a44709dfffb02e84f907",
+        "permissionname": "Delete"
+      },
+      {
+        "assetId": "52719a3584dfsvb02e84rr207",
+        "permissionId": "4",
+        "isActive": "Y",
+        "subAssets": [
+          {
+            "assetId": "52719a3584dfsvb02e84rr307",
+            "permissionId": "4",
+            "isActive": "Y",
+            "childAssets": [
+              {
+                "assetId": "",
+                "permissionId": "",
+                "isActive": "Y"
+              }
+            ],
+            "assetName": "Inventory Management",
+            "apiEndPoint": "/dashboard/products/inventoryManagement",
+            "pk": "6092a44709dfffb02e84f907",
+            "permissionname": "Delete"
+          }
+        ],
+        "assetName": "Products",
+        "apiEndPoint": "/dashboard/products/",
+        "pk": "6092a44709dfffb02e84f907",
+        "permissionname": "Delete"
+      }
+    ],
+    "overrides": [
+      {
+        "assetId": "",
+        "permissionId": "",
+        "subAssets": [
+          {
+            "assetId": "",
+            "permissionId": "",
+            "childAssets": [
+              {
+                "assetId": "",
+                "permissionId": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "info": [
+      "This metadata key is created to just provide more information on response",
+      "This response belongs to Store-Portal appType",
+      "In normal response, metadata key will not be returned as of now"
+    ]
+  },
+  "status": 200,
+  "type": "success",
+  "message": "OK"
+}

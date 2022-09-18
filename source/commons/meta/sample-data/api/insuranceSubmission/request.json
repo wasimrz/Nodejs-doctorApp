@@ -1,0 +1,13 @@
+{
+    "name": "test",
+    "email": "test@gmail.com",
+    "age": 24,
+    "mobile": 9874563210,
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Udupi",
+    "gender": "Female",
+    "address": "xyz",
+    "amount": 2400,
+    "date": "02/10/2021"
+}

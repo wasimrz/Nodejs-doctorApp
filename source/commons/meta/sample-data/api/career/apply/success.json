@@ -1,0 +1,21 @@
+{
+    "data": {
+        "createdAt": "2022-08-24T07:53:11.563Z",
+        "_id": "6305d8efca6bcb1f35330395",
+        "name": "31653135313163353965363437396130:9ab7e88beae8785cecf3a6ffa4c21078",
+        "email": "31653135313163353965363437396130:9ec3eba6dab7ec7abcbb6f680b5fed3b97b21c4cd0bc39cf71f875e270c1cedb",
+        "mobile": "31653135313163353965363437396130:55e6fe973fe80a9430c2496253d25883",
+        "hrCode": "HR 1234",
+        "__v": 0,
+        "currentCTC": 4.2,
+        "currentPosition": "SE",
+        "degree": "degree123",
+        "institution": "MCE",
+        "resume": "https://myawsimagesbucket.s3.amazonaws.com/career/2022-08-24T11%3A52%3A48.130Z-Aadhar.pdf",
+        "skills": "skill1,skill2",
+        "totalExperience": "1"
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Application "
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "createdAt": "2022-08-19T16:27:17.611Z",
+    "_id": "62ffba6e7ffe5f0d40928272",
+    "doctorId": "378468172436234",
+    "name": "Some meds name",
+    "icon": "Some url for icon",
+    "price": 1234,
+    "updatedAt": "2022-08-19T16:29:34.110Z",
+    "__v": 0
+  },
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

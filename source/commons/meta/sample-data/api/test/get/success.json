@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "createdAt": "2022-07-26T16:40:52.226Z",
+      "icons": ["url1", "url2"],
+      "_id": "22ab02899028f1f77f6a1543",
+      "displayName": "short name1",
+      "description": "Some teset description1",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-07-26T17:58:44.390Z",
+      "icons": ["url1", "url2"],
+      "_id": "145b02878928f1a97f6a1543",
+      "displayName": "short name5",
+      "description": "Some teset description1",
+      "updatedAt": "2022-07-26T18:02:25.281Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-08-13T07:05:50.204Z",
+      "icons": ["url1", "url2"],
+      "_id": "145b0287833928f1a97f6a1543",
+      "displayName": "short name5",
+      "description": "Some teset description1",
+      "updatedAt": "2022-08-13T07:24:50.121Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-08-13T07:05:50.204Z",
+      "icons": ["url1", "url2"],
+      "_id": "145b0233928f1a97f6a1543",
+      "testName": "test 5 ",
+      "displayName": "short name5",
+      "description": "Some teset description1",
+      "updatedAt": "2022-08-13T07:25:59.365Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-08-14T08:09:36.258Z",
+      "icons": ["url1", "url2"],
+      "_id": "145b023928f1a97f6a1543",
+      "testName": "Teset name",
+      "displayName": "Its short name",
+      "description": "Some test description1",
+      "updatedAt": "2022-08-14T08:14:54.506Z",
+      "__v": 0
+    }
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

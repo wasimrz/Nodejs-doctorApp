@@ -1,0 +1,38 @@
+{
+  "name": "somename",
+  "_id": "3ww498573422349834d579",
+  "doctorId": "378468172436234",
+  "appointmentId": "123234234",
+  "summary": "SOme summary",
+  "meds": ["somemeds name", "dolo", "paracteol"],
+  "test": [
+    {
+      "testName": "teset1",
+      "_id": "145b02878928f1a97f6a1543",
+      "icons": [],
+      "displayName": "short name5",
+      "description": "Some teset description1"
+    },
+    {
+      "testName": "teset2",
+      "_id": "145b02878928f1a97f6a1543",
+      "icons": [],
+      "displayName": "short name5",
+      "description": "Some teset description1"
+    }
+  ],
+  "problem": [
+    {
+      "_id": "145b028781a97f6a1543",
+      "problemName": "Problem 1 ",
+      "displayName": "short name1",
+      "icons": ["url1", "url2"]
+    },
+    {
+      "_id": "62aa02777028f3f77f6a1090",
+      "problemName": "Problem 2 ",
+      "displayName": "short name2",
+      "icons": ["url1", "url2"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "appointmentId": "62eb9596e32a14179c4da363",
+  "scheduleDate": {
+    "availabilityId": "62eabc5a090053143cc5b157",
+    "day": "Tuesday",
+    "time": "12:00 PM",
+    "date": "2022-08-03T18:30:00.000Z",
+    "slotId": "62eabc5a090053143cc5b158"
+  }
+}

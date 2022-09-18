@@ -1,0 +1,17 @@
+{
+    "data": {
+        "price": {
+            "fixed": 5000
+        },
+        "createdAt": "2022-08-21T11:23:19.338Z",
+        "_id": "630215dec0a5e90aa3c4d4ff",
+        "icon": "https://myawsimagesbucket.s3.ap-south-1.amazonaws.com/2022-08-21T11%3A24%3A14.221Z-DIP-2.png",
+        "surgeryName": "surgeryABC",
+        "surgeryDescription": "surgery descriptiion 1234",
+        "updatedAt": "2022-08-21T11:24:14.612Z",
+        "__v": 0
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Surgery added successfully"
+}

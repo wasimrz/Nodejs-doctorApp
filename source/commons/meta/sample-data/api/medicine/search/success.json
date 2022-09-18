@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "createdAt": "2022-08-19T13:04:09.731Z",
+      "_id": "62ff8a4d7f42990f5c5734b7",
+      "name": "some meds name",
+      "icon": "SOme url for the icon",
+      "price": 21,
+      "updatedAt": "2022-08-19T13:04:13.615Z",
+      "__v": 0
+    },
+    {
+      "createdAt": "2022-08-19T16:27:17.611Z",
+      "_id": "62ffba6e7ffe5f0d40928272",
+      "doctorId": "378468172436234",
+      "name": "Some meds name",
+      "icon": "Some url for icon",
+      "price": 1234,
+      "updatedAt": "2022-08-19T16:29:34.110Z",
+      "__v": 0
+    }
+  ],
+  "status": 200,
+  "type": "success",
+  "message": "Ok"
+}

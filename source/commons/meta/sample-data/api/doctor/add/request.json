@@ -1,0 +1,66 @@
+{
+  "_id": "21234523234234345",
+  "firstName": "First name",
+  "lastName": "Lats name",
+  "qualification": "Qualifications",
+  "location": {
+    "_id": "23454561d32v",
+    "flatNo": 12,
+    "city": "Indore",
+    "district": "String",
+    "state": "String"
+  },
+  "problem": [
+    {
+      "_id": "62cc02777028f3f57f6a2070",
+      "icons": ["Image Url", "Image url"],
+      "problemName": "problem 1",
+      "displayName": "displayName"
+    }
+  ],
+  "availability": [
+    {
+      "day": "Monday",
+      "slot": [
+        {
+          "time": "2:00 PM",
+          "isAvailable": 1
+        },
+        {
+          "time": "4:00 PM",
+          "isAvailable": 1
+        },
+        {
+          "time": "6:00 PM",
+          "isAvailable": 1
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "slot": [
+        {
+          "time": "12:00 PM",
+          "isAvailable": 1
+        },
+        {
+          "time": "3:00 PM",
+          "isAvailable": 1
+        },
+        {
+          "time": "4:00 PM",
+          "isAvailable": 1
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "_id": "22ab02899028f1f77f6a1543",
+      "icons": ["Image Url", "Image url"],
+      "testName": "Test 1",
+      "displayName": "displayName",
+      "description": "Some description"
+    }
+  ]
+}

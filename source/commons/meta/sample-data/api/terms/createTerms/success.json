@@ -1,0 +1,11 @@
+{
+    "data": {
+        "createdAt": "2022-08-20T05:12:12.911Z",
+        "_id": "63006d2cff82a61cbb6b08d2",
+        "updatedAt": "2022-08-20T05:12:12.911Z",
+        "__v": 0
+    },
+    "status": 200,
+    "type": "success",
+    "message": "Terms created successfully ."
+}

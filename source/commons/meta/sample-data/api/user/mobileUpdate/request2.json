@@ -1,0 +1,7 @@
+{
+  "otp": {
+    "mobile": 1234,
+    "email": 4321
+  },
+  "resource": "paxapp"
+}

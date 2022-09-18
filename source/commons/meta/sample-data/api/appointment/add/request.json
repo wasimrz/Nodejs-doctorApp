@@ -1,0 +1,32 @@
+{
+  "-comments": "Here doctorsId must be doctorId, availabilityId must be from its availability and slot slotId is from slot and status is optional, it might be ACTIVE,DELETED,BLOCKED, default ACTIVE.",
+  "patientName": "Patient Name",
+  "patientAge": 23,
+  "doctorId": "23212345232342345345",
+  "appointmentType": "VIDEO_CALL",
+  "status": "ACTIVE",
+  "scheduleDate": {
+    "availabilityId": "62f8aa616c3ff81b0c59a871",
+    "day": "Monday",
+    "time": "2:00 PM",
+    "date": "8/4/2022",
+    "slotId": "62f8aa616c3ff81b0c59a872"
+  },
+  "test": [
+    {
+      "_id": "145b023928f1a97f6a1543",
+      "testName": "Test name",
+      "displayName": "Its short name",
+      "icons": ["url1", "url2"],
+      "description": "Some test description1"
+    }
+  ],
+  "problem": [
+    {
+      "_id": "45b028781a97f6a1543",
+      "problemName": "Some Problem",
+      "displayName": "Its short name",
+      "icons": ["url1", "url2"]
+    }
+  ]
+}
